@@ -1,3 +1,3 @@
 - 👋 @sudo-adduser-jordan
 - :mage_man: Software Development / DevOps
-- 📫 LinkedIn
+- :briefcase: LinkedIn
