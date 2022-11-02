@@ -1,3 +1,3 @@
-- 👋 @sudo-adduser-jordan
+- :octocat: @sudo-adduser-jordan
 - :mage_man: Software Development / DevOps
 - :briefcase: LinkedIn
