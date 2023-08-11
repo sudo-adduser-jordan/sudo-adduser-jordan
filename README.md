@@ -12,10 +12,4 @@ Toolchain
 
 https://github.com/sudo-adduser-jordan/Toolchain
 
-Porfolio Website
 
-https://portfolio-website-sudo-adduser-jordan.vercel.app/
-
-Nasa API Explorer
-
-https://nasa-api-explorer-sudo-adduser-jordan.vercel.app/
