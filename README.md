@@ -2,7 +2,7 @@
 
 :octocat: @sudo-adduser-jordan
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-adduser-jordan&hide_progress=true&theme=transparent&hide=html,CSS,Batchfile&langs_count=8)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-adduser-jordan&hide_progress=true&theme=transparent&hide=html,CSS,Batchfile&langs_count=8) -->
 
 Code Racer
 https://code-racer-eight.vercel.app/
@@ -18,4 +18,3 @@ https://nasa-api-explorer-sudo-adduser-jordan.vercel.app/
 
 Portfolio
 https://sudo-adduser-jordan.vercel.app/
-
