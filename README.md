@@ -16,6 +16,9 @@ https://github.com/sudo-adduser-jordan/Toolchain
 Algorithm Visualizer
 https://computer-algorithm-visualizer.vercel.app/
 
+Advent of Code
+https://github.com/sudo-adduser-jordan/Advent-of-Code
+
 NASA Api Explorer
 https://nasa-api-explorer-sudo-adduser-jordan.vercel.app/
 
