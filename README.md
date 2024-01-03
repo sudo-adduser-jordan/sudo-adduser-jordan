@@ -1,4 +1,4 @@
-:mage_man: Software Development
+# :mage_man: Software Development
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-adduser-jordan&hide_progress=true&theme=transparent&hide=html,CSS,Batchfile&langs_count=8)
@@ -22,7 +22,7 @@ https://github.com/sudo-adduser-jordan/Advent-of-Code
 NASA Api Explorer
 https://nasa-api-explorer-sudo-adduser-jordan.vercel.app/
 
-Support Me:
+## Support Me
 
   🔑 Bitcoin 
   ```
