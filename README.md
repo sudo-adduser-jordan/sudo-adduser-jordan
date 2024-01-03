@@ -33,4 +33,5 @@ https://nasa-api-explorer-sudo-adduser-jordan.vercel.app/
   ```
   0x88380AF8dBE43f73D9A9d85F3a181ec13c700e7c
   ```
-  ``` https://www.paypal.com/paypalme/lostcoastwizard?country.x=US&locale.x=en_US ```
+  https://www.paypal.com/paypalme/lostcoastwizard?country.x=US&locale.x=en_US
+  
