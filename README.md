@@ -22,6 +22,7 @@ https://github.com/sudo-adduser-jordan/Advent-of-Code
 NASA Api Explorer
 https://nasa-api-explorer-sudo-adduser-jordan.vercel.app/
 
+<!-- 
 ## Support Me
 
   🔑 Bitcoin 
@@ -33,5 +34,6 @@ https://nasa-api-explorer-sudo-adduser-jordan.vercel.app/
   ```
   0x88380AF8dBE43f73D9A9d85F3a181ec13c700e7c
   ```
+ -->
   
   
