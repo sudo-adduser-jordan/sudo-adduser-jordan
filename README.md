@@ -10,6 +10,9 @@ https://sudo-adduser-jordan.vercel.app/
 Code Racer
 https://code-racer-eight.vercel.app/
 
+Music Wizard Discord Player
+https://music-wizard.vercel.app/
+
 Toolchain
 https://github.com/sudo-adduser-jordan/Toolchain
 
