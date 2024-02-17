@@ -7,14 +7,15 @@
 Portfolio
 https://sudo-adduser-jordan.vercel.app/
 
-Music Wizard Discord Player
-https://music-wizard.vercel.app/
-
 Code Racer
 https://code-racer-eight.vercel.app/
 
 Toolchain
 https://github.com/sudo-adduser-jordan/Toolchain
+
+Music Wizard Discord Player
+https://music-wizard.vercel.app/
+
 
 Algorithm Visualizer
 https://computer-algorithm-visualizer.vercel.app/
