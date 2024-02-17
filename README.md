@@ -7,6 +7,9 @@
 Portfolio
 https://sudo-adduser-jordan.vercel.app/
 
+Music Wizard Discord Player
+https://music-wizard.vercel.app/
+
 Code Racer
 https://code-racer-eight.vercel.app/
 
@@ -21,9 +24,6 @@ https://github.com/sudo-adduser-jordan/Advent-of-Code
 
 NASA Api Explorer
 https://nasa-api-explorer-sudo-adduser-jordan.vercel.app/
-
-Music Wizard Discord Player
-https://music-wizard.vercel.app/
 
 <!-- 
 ## Support Me
