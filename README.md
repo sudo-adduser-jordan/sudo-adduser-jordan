@@ -16,7 +16,6 @@ https://github.com/sudo-adduser-jordan/Toolchain
 Music Wizard Discord Player
 https://music-wizard.vercel.app/
 
-
 Algorithm Visualizer
 https://computer-algorithm-visualizer.vercel.app/
 
@@ -25,6 +24,9 @@ https://github.com/sudo-adduser-jordan/Advent-of-Code
 
 NASA Api Explorer
 https://nasa-api-explorer-sudo-adduser-jordan.vercel.app/
+
+Linux Mint Ulauncher Theme
+https://github.com/sudo-adduser-jordan/ulauncher-mint-y-dark-green
 
 <!-- 
 ## Support Me
