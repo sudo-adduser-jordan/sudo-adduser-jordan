@@ -20,6 +20,8 @@ https://github.com/sudo-adduser-jordan/Advent-of-Code
 NASA Api Explorer
 https://nasa-api-explorer-sudo-adduser-jordan.vercel.app/
 
-Linux Mint Ulauncher Theme
+Linux Mint Ulauncher Theme Green
 https://github.com/sudo-adduser-jordan/ulauncher-mint-y-dark-green
 
+Linux Mint Ulauncher Theme Orange
+https://github.com/sudo-adduser-jordan/ulauncher-mint-y-dark-orange
