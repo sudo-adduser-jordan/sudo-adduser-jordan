@@ -6,8 +6,10 @@
 Code Racer
 https://code-racer-eight.vercel.app/
 
+<!-- 
 Music Wizard Discord Player
 https://music-wizard.vercel.app/
+-->
 
 Algorithm Visualizer
 https://computer-algorithm-visualizer.vercel.app/
